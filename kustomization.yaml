@@ -1,0 +1,5 @@
+# application kustomization file
+resources:
+- bank-of-anthos
+
+  

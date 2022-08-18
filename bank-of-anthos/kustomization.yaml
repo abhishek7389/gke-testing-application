@@ -1,0 +1,12 @@
+resources:
+- jwt-secrets/jwt-secret.yaml
+- k8s-manifests/accounts-db.yaml
+- k8s-manifests/config.yaml
+- k8s-manifests/frontend.yaml
+- k8s-manifests/ledger-writer.yaml
+- k8s-manifests/transaction-history.yaml
+- k8s-manifests/balance-reader.yaml
+- k8s-manifests/contacts.yaml
+- k8s-manifests/ledger-db.yaml
+- k8s-manifests/loadgenerator.yaml
+- k8s-manifests/userservice.yaml
